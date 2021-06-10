@@ -1,0 +1,21 @@
+html
+{
+    height: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+#lg
+{
+    background-image: url(../img/bklg.jpg);
+    background-size: auto;
+    height: 100%; 
+    width: 100%;
+    display: flex;
+    z-index: 100;
+}
+
